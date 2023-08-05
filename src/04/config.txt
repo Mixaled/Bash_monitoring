@@ -1,0 +1,3 @@
+column1_background=2
+column1_font_color=4
+column2_background=1
